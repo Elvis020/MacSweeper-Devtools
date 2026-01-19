@@ -2,7 +2,7 @@ class Macsweep < Formula
   desc "Mac package hygiene tool - find and clean unused packages"
   homepage "https://github.com/Elvis020/MacSweeper-Devtools"
   url "https://github.com/Elvis020/MacSweeper-Devtools/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "" # Will be filled when creating a release
+  sha256 "58d93db247696c88494180b980113c3dba6b5a3e45650f86f4660068057b10c2"
   license "MIT"
   head "https://github.com/Elvis020/MacSweeper-Devtools.git", branch: "main"
 
