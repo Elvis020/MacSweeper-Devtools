@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Mac Package Hygiene Tool - Find and clean unused packages"
 license = "MIT"
-repository = "https://github.com/Elvis020/mac-sweeper"
+repository = "https://github.com/Elvis020/MacSweeper-Devtools"
 keywords = ["macos", "homebrew", "cleanup", "packages", "cli"]
 categories = ["command-line-utilities", "development-tools"]
 
